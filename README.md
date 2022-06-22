@@ -1,6 +1,8 @@
 # TodoApp
+Bu proje Android Studio kullanılarak geliştirilmiştir. Aynı zamanda bu proje benim ilk mobil uygulamam niteliğindedir.
 <html>
   <body>
+   <br>
   <h4>Login Screen</h4>
     <img src='https://user-images.githubusercontent.com/78226423/175028126-411fff8c-2fbc-4915-af03-cb8c66f8134d.png'>
   
