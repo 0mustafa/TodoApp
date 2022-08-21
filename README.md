@@ -1,5 +1,6 @@
 # TodoApp
 Bu proje Android Studio kullanılarak geliştirilmiştir. Aynı zamanda bu proje benim ilk mobil uygulamam niteliğindedir.
+
 <html>
   <body>
    <br>
